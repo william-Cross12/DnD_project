@@ -25,3 +25,4 @@ roll dice to DM
 roll dice to all
 
 open character sheets
+create character
